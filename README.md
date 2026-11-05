@@ -6,7 +6,7 @@ Aspiring aerospace & defense engineer interested in sensing, tracking, and contr
 ---
 
 ### 🚀 Currently building
-**[Drone Detection & Tracking Turret](https://github.com/mattybaero/drone-tracking-turret)**: a camera-based system that detects small drones with computer vision and tracks them on a pan-tilt turret using closed-loop control.
+**[Drone Detection & Tracking Turret](https://github.com/mattybaero/drone-tracking-turret)**: a system that hears drones with a microphone array, estimates their direction, and hands off to a pan-tilt camera that locks on and tracks them.
 
 ### 🛠️ Tools & skills
 <!-- Keep only what you can actually talk about in an interview -->
