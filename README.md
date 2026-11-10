@@ -1,21 +1,22 @@
-# Hi, I'm Mat 👋
+# Mathew Yohannes
 
-**Mechanical Engineering @ Howard University (Class of 2029)**
-Aspiring aerospace & defense engineer interested in sensing, tracking, and control systems.
+Mechanical engineering student at Howard University (Class of 2029), interested in sensing, controls, and aerospace and defense systems. Seeking Summer 2027 internships in mechanical engineering, aerospace, and defense.
 
----
+## Current project
 
-### 🚀 Currently building
-**[Drone Detection & Tracking Turret](https://github.com/mattybaero/drone-tracking-turret)**: a system that hears drones with a microphone array, estimates their direction, and hands off to a pan-tilt camera that locks on and tracks them.
+**[Drone Detection and Tracking Turret](https://github.com/mattybaero/drone-tracking-turret):** a system that detects small drones by their acoustic signature, estimates their direction with a microphone array, and cues a pan-tilt camera to track them. The detection algorithm is prototyped in Python and tested against non-drone noise sources; hardware is in progress.
 
-### 🛠️ Tools & skills
-<!-- Keep only what you can actually talk about in an interview -->
-- **Programming:** Python (NumPy, OpenCV)
-- **CAD / Fabrication:** SolidWorks / Fusion 360, 3D printing
-- **Electronics:** Raspberry Pi / Arduino, cameras, servos
-- **Engineering:** dynamics, control systems (PID), computer vision
+## Skills
 
-### 📌 Also
-- Project Chair, Howard University ASME chapter
-- Co-Finance Director, Eritrean & Ethiopian Student Association (EESA)
-- Seeking **Summer 2027 internships** in aerospace, defense, and mechanical engineering
+- **Programming:** Python (NumPy, SciPy, Matplotlib), MATLAB, SQL
+- **CAD:** SolidWorks, Fusion 360, AutoCAD
+
+## Activities
+
+- Project Chair, American Society of Mechanical Engineers (ASME), Howard University
+- Member, National Society of Black Engineers (NSBE)
+- Co-Finance Director, Eritrean and Ethiopian Student Association
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mathew-yohannes-90b976385/)
