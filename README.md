@@ -4,7 +4,7 @@ Mechanical engineering student at Howard University (Class of 2029), interested 
 
 ## Current project
 
-**[Drone Detection and Tracking Turret](https://github.com/mattybaero/drone-tracking-turret):** a system that detects small drones by their acoustic signature, estimates their direction with a microphone array, and cues a pan-tilt camera to track them. The detection algorithm is prototyped in Python and tested against non-drone noise sources; hardware is in progress.
+**[Drone Detection and Tracking Turret](https://github.com/matiyohan/drone-tracking-turret):** a system that detects small drones by their acoustic signature, estimates their direction with a microphone array, and cues a pan-tilt camera to track them. The detection algorithm is prototyped in Python and tested against non-drone noise sources; hardware is in progress.
 
 ## Skills
 
