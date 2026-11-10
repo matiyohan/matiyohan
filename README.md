@@ -1,6 +1,6 @@
 # Mathew Yohannes
 
-Mechanical engineering student at Howard University (Class of 2029), interested in sensing, controls, and aerospace and defense systems. Seeking Summer 2027 internships in mechanical engineering, aerospace, and defense.
+Mechanical engineering student at Howard University (Class of 2029), interested in sensing, controls, and aerospace systems. Seeking Summer 2027 internships in mechanical and aerospace engineering.
 
 ## Current project
 
